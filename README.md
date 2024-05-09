@@ -1,2 +1,1 @@
-# data_processing
-Prepare and process input data for selection model
+The following code takes input from open data sources, processes the data, and outputs it as requested by the selection tool. In particular, three different sources are processed: Conventional, Unconventional, and District Heating datasets
